@@ -1,2 +1,3 @@
-# Practice
-git commit
+# Learning with Michal
+github.com/ligerlearningcenter
+
